@@ -8,4 +8,4 @@
 
 **Image:** ![Learning JSX](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot1.png)
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Want to follow along?** https://www.codecademy.com/
