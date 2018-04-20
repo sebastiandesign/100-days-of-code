@@ -18,9 +18,9 @@
 
 **Lesson Recap:** 
 - Use className instead of class for HTML elements. 
-- Close them tags />. 
+- Close img and br tags />. 
 - Use curlys when injecting regular JS. 
-- Call variables with injected JS. 
+- you can call variables with injected JS. 
 - Write event listeners in camelCase. 
 - Use if statements outside of JSX. 
 - x ? y : z (if x is true, execute y, else z). 
