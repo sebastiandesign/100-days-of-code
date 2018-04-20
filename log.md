@@ -19,11 +19,11 @@
 **Lesson Recap:** 
 - Use className instead of class for HTML elements. 
 - Close img and br tags />. 
-- Use curlys when injecting regular JS. 
-- you can call variables with injected JS. 
+- Use curlys {} when injecting regular JS. 
+- You can call variables with injected JS. 
 - Write event listeners in camelCase. 
 - Use if statements outside of JSX. 
-- x ? y : z (if x is true, execute y, else z). 
+- Remember x ? y : z (if x is true, execute y, else z). 
 - Use .map() to make a list of JSX elements. 
 - Use keys to order a list (key=" "). 
 - You can write in React without JSX with React.createElement();.
