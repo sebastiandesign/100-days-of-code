@@ -16,6 +16,16 @@
 
 **Thoughts:** There was a lot more information thrown at me, but I know that I'm not expected to remember it all at once. Even so, I'll recap so that I can look back and say, 'yeah, I remember that!'
 
-**Lesson Recap:** - Use className instead of class for HTML elements. - Close them tags />. - Use curlys when injecting regular JS. - Call variables with injected JS. - Write event listeners in camelCase. - Use if statements outside of JSX. - x ? y : z (if x is true, execute y, else z). - Use .map() to make a list of JSX elements. - Use keys to order a list (key=" "). - You can write in React without JSX with React.createElement();.
+**Lesson Recap:** 
+- Use className instead of class for HTML elements. 
+- Close them tags />. 
+- Use curlys when injecting regular JS. 
+- Call variables with injected JS. 
+- Write event listeners in camelCase. 
+- Use if statements outside of JSX. 
+- x ? y : z (if x is true, execute y, else z). 
+- Use .map() to make a list of JSX elements. 
+- Use keys to order a list (key=" "). 
+- You can write in React without JSX with React.createElement();.
 
 **Image:** ![Advanced JSX](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot2.png)
