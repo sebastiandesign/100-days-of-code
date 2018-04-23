@@ -30,10 +30,18 @@
 
 **Image:** ![Advanced JSX](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot2.png)
 
-### Day 3: April 20, 2019
+### Day 3: April 20, 2018
 
 **Today's Progress**: Learning React.JS Part 3 - React Components
 
 **Thoughts:** I decided to challenge myself this time by trying to remember code from the previous two days. I can say I'm quite proud of myself. I can now make a component without having to look at the example code. Though I do have to admit it took me some time to create a conditional statement without using if/else. It wasn't required, but I wanted to try anyway.
 
 **Image:** ![Components](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot3.png)
+
+### Day 4: April 22, 2018
+
+**Today's Progress**: Learning React.JS Part 4 - This.props & Event Handlers
+
+**Thoughts:** I struggled for a while as I tried to understand what the Codecademy lesson was trying to tell me to do. I finally gave up and let it give me the answer, and I facepalmed. It's always that one small thing that messes you up...
+
+**Image:** ![Props](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot4.png)
