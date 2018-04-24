@@ -52,4 +52,4 @@
 
 **Thoughts:** Loved how there is no explanation as to why super(props) is needed in order to pass this to a state inside a constructor. Oh well, just another mystery to add next to how people still believe the world is flat.
 
-**Image:** ![Props](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot5.png)
+**Image:** ![States](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot5.png)
