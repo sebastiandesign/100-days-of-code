@@ -45,3 +45,11 @@
 **Thoughts:** I struggled for a while as I tried to understand what the Codecademy lesson was trying to tell me to do. I finally gave up and let it give me the answer, and I facepalmed. It's always that one small thing that messes you up...
 
 **Image:** ![Props](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot4.png)
+
+### Day 5: April 24, 2018
+
+**Today's Progress**: Learning React.JS Part 5 - This.state, Constructors and super(props)
+
+**Thoughts:** Loved how there is no explanation as to why super(props) is needed in order to pass this to a state inside a constructor. Oh well, just another mystery to add next to how people still believe the world is flat.
+
+**Image:** ![Props](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot5.png)
