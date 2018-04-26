@@ -68,7 +68,7 @@
       then I have been called.`);
   }
 ```
-- These event handlers are attached to events with this:
+- These event handlers are attached to events with ***this***:
 ```jsx
     <h1 onClick={this.handleClick}>
       Hello world
@@ -127,6 +127,6 @@
 
 **Today's Progress**: Learning React.JS Part 6 - Parent, Child and Sibling Components
 
-**Thoughts:** It just gets more and more complicated. I think I should summarize each lesson so that all these concepts stick. For now, I'll go back and add a couple recaps for this.props and this.state.
+**Thoughts:** It just gets more and more complicated. I think I should summarize each lesson so that all these concepts stick. For now, I'll go back and add a recap for this.props and this.state.
 
 **Image:** ![Family of Components](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot6.png)
