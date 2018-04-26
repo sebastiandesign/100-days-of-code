@@ -44,6 +44,54 @@
 
 **Thoughts:** I struggled for a while as I tried to understand what the Codecademy lesson was trying to tell me to do. I finally gave up and let it give me the answer, and I facepalmed. It's always that one small thing that messes you up...
 
+**Lesson Recap:**
+- Components can have properties (this.props)
+- To render a prop:
+```jsx
+  render() {
+    return <h1>Hello, {this.props.propName}</h1>;
+  }
+```
+- To pass a prop:
+```jsx
+  ReactDOM.render(
+    <className propName="Property"/>,
+    document.getElementById('app')
+  )
+```
+- Props are typically used to carry functions like event handlers
+- Event handlers are defined like methods:
+```jsx
+   handleClick() {
+    alert(`I am an event handler.
+      If you see this message,
+      then I have been called.`);
+  }
+```
+- These event handlers are attached to events with this:
+```jsx
+    <h1 onClick={this.handleClick}>
+      Hello world
+    </h1>
+```
+- The name of the event handler should be different from the event
+- To pass the event handler as a prop from ***parent*** to ***child***:
+```jsx
+  render() {
+    return <Button onClick={this.handleClick}/>;
+  }
+```
+- To receive an event handler from ***parent***:
+```jsx
+  render() {
+    return (
+      <button onClick={this.props.onClick}>
+        Click me!
+      </button>
+    );
+  }
+```
+
 **Image:** ![Props](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot4.png)
 
 ### Day 5: April 24, 2018
@@ -52,4 +100,33 @@
 
 **Thoughts:** Loved how there is no explanation as to why super(props) is needed in order to pass this to a state inside a constructor. Oh well, just another mystery to add next to how people still believe the world is flat.
 
+**Lesson Recap:**
+- Components can have states (this.state)
+- Both props and states are known as dynamic information
+- States are determined in the constructor method:
+```jsx
+  constructor(props) {
+    //super(props) is needed to pass this to a state
+    super(props);
+    this.state = { mood: 'good' };
+    //the event handler needs to be bound by this
+    this.toggleMood = this.toggleMood.bind(this);
+  }
+```
+- The event handler is in charge of changing the state:
+```jsx
+  toggleMood() {
+    const newMood = this.state.mood == 'good' ? 'bad' : 'good';
+    this.setState({ mood: newMood });
+  }
+```
+
 **Image:** ![States](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot5.png)
+
+### Day 6: April 25, 2018
+
+**Today's Progress**: Learning React.JS Part 6 - Parent, Child and Sibling Components
+
+**Thoughts:** It just gets more and more complicated. I think I should summarize each lesson so that all these concepts stick. For now, I'll go back and add a couple recaps for this.props and this.state.
+
+**Image:** ![Family of Components](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot6.png)
