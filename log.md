@@ -130,3 +130,11 @@
 **Thoughts:** It just gets more and more complicated. I think I should summarize each lesson so that all these concepts stick. For now, I'll go back and add a recap for this.props and this.state.
 
 **Image:** ![Family of Components](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot6.png)
+
+### Day 7: April 26, 2018
+
+**Today's Progress**: Learning React.JS Part 7 - Advanced React
+
+**Thoughts:** I am 50% through the second part of Codecademy's React.JS course and I feel like I have a good grasp as to what is going on. I hope to make something useful from what I've learned soon.
+
+**Image:** ![Advanced React](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot7.png)
