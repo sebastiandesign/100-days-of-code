@@ -133,8 +133,16 @@
 
 ### Day 7: April 26, 2018
 
-**Today's Progress**: Learning React.JS Part 7 - Advanced React
+**Today's Progress**: Learning React.JS Part 7 - Advanced React Programming Patterns
 
 **Thoughts:** I am 50% through the second part of Codecademy's React.JS course and I feel like I have a good grasp as to what is going on. I hope to make something useful from what I've learned soon.
 
 **Image:** ![Advanced React](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot7.png)
+
+### Day 8: April 28, 2018
+
+**Today's Progress**: Learning React.JS Part 8 - PropTypes and React Forms
+
+**Thoughts:** I'm deliberately trying to pace myself with this challenge. I don't want to invest so much that I end up burning out and dropping the ball. The thing is I'm constantly itching to code, so I need to force myself off the computer and find other things to do.
+
+**Image:** ![React Forms](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot8.png)
