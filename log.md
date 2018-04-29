@@ -146,3 +146,11 @@
 **Thoughts:** I'm deliberately trying to pace myself with this challenge. I don't want to invest so much that I end up burning out and dropping the ball. The thing is I'm constantly itching to code, so I need to force myself off the computer and find other things to do.
 
 **Image:** ![React Forms](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot8.png)
+
+### Day 9: April 29, 2018
+
+**Today's Progress**: Learning React.JS Part 9 - Lifecycle Methods
+
+**Thoughts:** One of the lessons took me through fixing a number target game, but even after having completed the lesson, it still wasn't a very functional game. Now that I'm done with my React lessons, I'm going to go back tomorrow and make it work better as a challenge.
+
+**Image:** ![Lifecycle Methods](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot9.png)
