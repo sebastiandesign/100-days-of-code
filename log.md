@@ -151,6 +151,14 @@
 
 **Today's Progress**: Learning React.JS Part 9 - Lifecycle Methods
 
-**Thoughts:** One of the lessons took me through fixing a number target game, but even after having completed the lesson, it still wasn't a very functional game. Now that I'm done with my React lessons, I'm going to go back tomorrow and make it work better as a challenge.
+**Thoughts:** One of the lessons took me through fixing a number target game, but even after having completed the lesson, it still wasn't a very functional game. Now that I'm done with my React lessons, I'm going to go back next time and make it work better as a challenge.
 
 **Image:** ![Lifecycle Methods](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot9.png)
+
+### Day 10: May 1, 2018
+
+**Today's Progress**: Making a React.JS Game Part 1 - Number Target Game Fix
+
+**Thoughts:** As per my last update, I went back and made a couple changes to the number target game to make it more functional. It worked! The problem now is that I want to show my work, but I'm not sure how to get a React app on GitHub. I guess that's my next challenge.
+
+**Image:** N/A until I can figure the above out...
