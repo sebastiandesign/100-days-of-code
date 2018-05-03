@@ -161,4 +161,8 @@
 
 **Thoughts:** As per my last update, I went back and made a couple changes to the number target game to make it more functional. It worked! The problem now is that I want to show my work, but I'm not sure how to get a React app on GitHub. I guess that's my next challenge.
 
-**Image:** N/A until I can figure the above out...
+### Day 11: May 2, 2018
+
+**Today's Progress**: Creating a React.JS App on Mac
+
+**Thoughts:** I got one step further today. In order for me to get a React app on GitHub, I had to first create it on my MacBook. So I followed this Facebook tutorial: https://github.com/facebook/create-react-app/blob/master/README.md#getting-started. Now that that's done, I can move on to the next step.
