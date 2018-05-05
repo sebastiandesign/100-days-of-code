@@ -157,7 +157,7 @@
 
 ### Day 10: May 1, 2018
 
-**Today's Progress**: Making a React.JS Game Part 1 - Number Target Game Fix
+**Today's Progress**: Making a React.JS Game - Number Target Game Fix
 
 **Thoughts:** As per my last update, I went back and made a couple changes to the number target game to make it more functional. It worked! The problem now is that I want to show my work, but I'm not sure how to get a React app on GitHub. I guess that's my next challenge.
 
