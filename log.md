@@ -166,3 +166,9 @@
 **Today's Progress**: Creating a React.JS App on Mac
 
 **Thoughts:** I got one step further today. In order for me to get a React app on GitHub, I had to first create it on my MacBook. So I followed this Facebook tutorial: https://github.com/facebook/create-react-app/blob/master/README.md#getting-started. Now that that's done, I can move on to the next step.
+
+### Day 12: May 4, 2018
+
+**Today's Progress**: Deploying a React.JS App on GitHub
+
+**Thoughts:** Managed to get the React app on Github by following another tutorial: https://github.com/gitname/react-gh-pages. I'm really proud of myself! You can see the repository here: https://github.com/sebastiandesign/Number-Target-Game/tree/gh-pages and play the game by clicking on the link beside the description.
