@@ -172,3 +172,9 @@
 **Today's Progress**: Deploying a React.JS App on GitHub
 
 **Thoughts:** Managed to get the React app on Github by following another tutorial: https://github.com/gitname/react-gh-pages. I'm really proud of myself! You can see the repository here: https://github.com/sebastiandesign/Number-Target-Game/tree/gh-pages and play the game by clicking on the link beside the description.
+
+### Day 13: May 6, 2018
+
+**Today's Progress**: Learning React.JS Part 10 - Recap
+
+**Thoughts:** I wanted to get another perspective of how to code in React, so I went to Lynda.com and watched the first course in the Become a React Developer path. I realized that there are different ways to set up components and learned how to make the code look cleaner.
