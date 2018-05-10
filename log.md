@@ -178,3 +178,11 @@
 **Today's Progress**: Learning React.JS Part 10 - Recap
 
 **Thoughts:** I wanted to get another perspective of how to code in React, so I went to Lynda.com and watched the first course in the Become a React Developer path. I realized that there are different ways to set up components and learned how to make the code look cleaner.
+
+### Day 14: May 10, 2018
+
+**Today's Progress**: Learning Node.JS Part 1 - Using Express
+
+**Thoughts:** I've been sick for the past couple of days so I thought it best to rest up and then continue my journey. I decided to learn Node next, and I'm actually quite enjoying it. The syntax is pretty straightforward and I'm learning to build from the back and front end with it.
+
+**Image:** ![Using Express](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_1.png)
