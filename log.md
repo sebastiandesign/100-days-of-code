@@ -185,6 +185,6 @@
 
 **Today's Progress**: Learning Node.JS Part 1 - Using Express
 
-**Thoughts:** I've been sick for the past couple of days so I thought it best to rest up and then continue my journey. I decided to learn Node next, and I'm actually quite enjoying it. The syntax is pretty straightforward and I'm learning to build from the back and front end with it.
+**Thoughts:** I've been sick for the past couple of days so I thought it best to rest up and then continue my journey. I decided to learn Node with Lynda.com next, and I'm actually quite enjoying it. The syntax is pretty straightforward and I'm learning to build from the back and front end with it.
 
 **Image:** ![Using Express](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_1.png)
