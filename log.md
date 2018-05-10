@@ -173,7 +173,7 @@
 
 **Thoughts:** Managed to get the React app on Github by following another tutorial: https://github.com/gitname/react-gh-pages. I'm really proud of myself! You can see the repository here: https://github.com/sebastiandesign/Number-Target-Game/tree/gh-pages and play the game by clicking on the link beside the description.
 
-**Image:** ![Deployed App](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_10.png)
+**Image:** ![Deployed App](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot10.png)
 
 ### Day 13: May 6, 2018
 
