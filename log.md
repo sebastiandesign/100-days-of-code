@@ -196,3 +196,9 @@
 **Thoughts:** A lot of this is really familiar to me as I have learned to use PHP and MongoDB prior to the 100DaysOfCode. Thankfully I also know how to use MySQL and can see the differences between a structured and unstructured data.
 
 **Image:** ![Using Socket.io](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_2.png)
+
+### Day 16: May 13, 2018
+
+**Today's Progress**: Learning Node.JS Part 3 - Promises, Async/Await and Try/Catch/Finally
+
+**Thoughts:** Debugging sounds like a pain and a half. Good to learn though, as I'm sure there will be moments where I'll have to debug code, whether mine or another's.
