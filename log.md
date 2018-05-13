@@ -188,3 +188,11 @@
 **Thoughts:** I've been sick for the past couple of days so I thought it best to rest up and then continue my journey. I decided to learn Node with Lynda.com next, and I'm actually quite enjoying it. The syntax is pretty straightforward and I'm learning to build from the back and front end with it.
 
 **Image:** ![Using Express](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_1.png)
+
+### Day 15: May 12, 2018
+
+**Today's Progress**: Learning Node.JS Part 2 - Using Socket.io & Mongoose
+
+**Thoughts:** A lot of this is really familiar to me as I have learned to use PHP and MongoDB prior to the 100DaysOfCode. Thankfully I also know how to use MySQL and can see the differences between a structured and unstructured data.
+
+**Image:** ![Using Socket.io](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_2.png)
