@@ -199,6 +199,14 @@
 
 ### Day 16: May 13, 2018
 
-**Today's Progress**: Learning Node.JS Part 3 - Promises, Async/Await and Try/Catch/Finally
+**Today's Progress**: Learning Node.JS Part 3 - Promises, Async/Await & Try/Catch/Finally
 
 **Thoughts:** Debugging sounds like a pain and a half. Good to learn though, as I'm sure there will be moments where I'll have to debug code, whether mine or another's.
+
+### Day 17: May 15, 2018
+
+**Today's Progress**: Learning Angular.JS Part 1 - Expressions, Filters & Directives
+
+**Thoughts:** Honestly, Angular is just as awesome as React. They remind me of ninjas, silently working in their stealthy ways while everyone else is oblivious as to what's really going on.
+
+**Image:** ![Angular](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_01.png)
