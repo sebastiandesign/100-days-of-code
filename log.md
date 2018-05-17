@@ -215,6 +215,6 @@
 
 **Today's Progress**: Learning Angular.JS Part 2 - Using Custom & Built-in Directives
 
-**Thoughts:** Funny how HTML established itself with a specific set of elements, and then Angular comes along and suddenly you have the power to change the rules. <BreakingTheRules rule="broken"></BreakingTheRules>
+**Thoughts:** Funny how HTML established itself with a specific set of elements, and then Angular comes along and suddenly you have the power to change the rules. `<BreakingTheRules rule="broken"></BreakingTheRules>`
 
 **Image:** ![Directives](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_02.png)
