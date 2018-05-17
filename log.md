@@ -210,3 +210,11 @@
 **Thoughts:** Honestly, Angular is just as awesome as React. They remind me of ninjas, silently working in their stealthy ways while everyone else is oblivious as to what's really going on.
 
 **Image:** ![Angular](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_01.png)
+
+### Day 18: May 16, 2018
+
+**Today's Progress**: Learning Angular.JS Part 2 - Using Custom & Built-in Directives
+
+**Thoughts:** Funny how HTML established itself with a specific set of elements, and then Angular comes along and suddenly you have the power to change the rules. <BreakingTheRules rule="broken"></BreakingTheRules>
+
+**Image:** ![Directives](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_02.png)
