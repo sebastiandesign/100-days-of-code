@@ -218,3 +218,11 @@
 **Thoughts:** Funny how HTML established itself with a specific set of elements, and then Angular comes along and suddenly you have the power to change the rules. `<BreakingTheRules rule="broken"></BreakingTheRules>`
 
 **Image:** ![Directives](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_02.png)
+
+### Day 19: May 17, 2018
+
+**Today's Progress**: Learning Angular.JS Part 3 - Services and Routing
+
+**Thoughts:** I finished the lesson on Codecademy, but I feel like I barely know how to use Angular. Applying the knowledge is all locked away behind a $20/mo gate that I really can't afford paying right now.
+
+**Image:** ![Routing](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_03.png)
