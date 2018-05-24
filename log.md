@@ -226,3 +226,15 @@
 **Thoughts:** I finished the lesson on Codecademy, but I feel like I barely know how to use Angular. Applying the knowledge is all locked away behind a $20/mo gate that I really can't afford paying right now.
 
 **Image:** ![Routing](https://raw.githubusercontent.com/sebastiandesign/100-days-of-code/master/images/screenshot_03.png)
+
+### Day 20: May 22, 2018
+
+**Today's Progress**: Learning Angular 6 Part 1 - Creating an Angular App
+
+**Thoughts:** Found a tutorial that takes you through creating a weather app on [Medium](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e). Thought I might give it a try!
+
+### Day 21: May 24, 2018
+
+**Today's Progress**: Learning Angular 6 Part 2 - The Weather App
+
+**Thoughts:** I really appreciate the amount of work put into the tutorial. Problem is that I'm not actually grasping what's going on. I think it might be better to create my own app from scratch.
